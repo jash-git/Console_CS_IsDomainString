@@ -1,0 +1,6 @@
+C:\Users\RD\AppData\Local\Temporary Projects\Console_CS_IsDomainString\bin\Debug\Console_CS_IsDomainString.exe
+C:\Users\RD\AppData\Local\Temporary Projects\Console_CS_IsDomainString\bin\Debug\Console_CS_IsDomainString.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\Console_CS_IsDomainString\obj\x86\Debug\Console_CS_IsDomainString.exe
+C:\Users\RD\AppData\Local\Temporary Projects\Console_CS_IsDomainString\obj\x86\Debug\Console_CS_IsDomainString.pdb
+D:\Visual project code\Console_CS_IsDomainString\Console_CS_IsDomainString\obj\x86\Debug\Console_CS_IsDomainString.exe
+D:\Visual project code\Console_CS_IsDomainString\Console_CS_IsDomainString\obj\x86\Debug\Console_CS_IsDomainString.pdb

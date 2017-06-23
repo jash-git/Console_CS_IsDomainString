@@ -1,0 +1,4 @@
+C:\Users\RD\AppData\Local\Temporary Projects\Console_CS_IsDomainString\bin\Release\Console_CS_IsDomainString.exe
+C:\Users\RD\AppData\Local\Temporary Projects\Console_CS_IsDomainString\bin\Release\Console_CS_IsDomainString.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\Console_CS_IsDomainString\obj\x86\Release\Console_CS_IsDomainString.exe
+C:\Users\RD\AppData\Local\Temporary Projects\Console_CS_IsDomainString\obj\x86\Release\Console_CS_IsDomainString.pdb
